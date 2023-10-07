@@ -1,0 +1,60 @@
+.section h1 {
+    color: #333;
+    font-size: 24px;
+}
+
+.section h2 {
+    color: #666;
+    font-size: 20px;
+}
+
+.external-link {
+    text-decoration: none;
+    color: #0078d4;
+    font-weight: bold;
+}
+
+.external-link:hover {
+    color: #ff5733;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #ccc;
+}
+
+.section {
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ddd;
+}
+
+body {
+    color: #444;
+    background-color: #f4f4f4;
+}
+
+.content-wrapper {
+    margin-top: 20px; 
+}
+
+.box {
+    width: 200px;
+    height: 100px; 
+    background-color: lightblue; 
+    padding: 20px; 
+    border: 2px solid darkblue;
+}
+  
+  .cover {
+    background-color: white;
+    width: 30em;
+    height: 35em;
+    position: relative;
+    border-radius: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
